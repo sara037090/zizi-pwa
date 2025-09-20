@@ -2,7 +2,7 @@
   "name": "زی‌زی - شروع یادگیری زبان",
   "short_name": "زی‌زی",
   "description": "یادگیری زبان انگلیسی و کره‌ای با زی‌زی — شخصی‌سازی شده و جذاب!",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#00b3ad",
   "theme_color": "#00b3ad",
